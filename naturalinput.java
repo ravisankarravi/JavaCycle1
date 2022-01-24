@@ -16,3 +16,9 @@ class naturalinput
 	System.out.println("Sum="+sum);
  	}
 	}
+/*
+Output
+Enter the number
+5
+Sum=15
+*/
