@@ -1,11 +1,11 @@
 import java.util.*;
-class primeinput
+public class Main
 {
 	public static void main(String args[])
 	{
 	Scanner sc=new Scanner(System.in);
 	int a,i;
-	System.out.println("Enter the numbers");
+	System.out.println("Enter the number");
 	a=sc.nextInt();
 	for(i=2;i<=a/2;i++)
 	{
@@ -23,3 +23,9 @@ class primeinput
 	}
 	}
 }
+/*
+Output
+Enter the number
+5
+Prime
+*/
