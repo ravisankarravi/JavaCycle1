@@ -20,6 +20,7 @@ else{
 }
 }
 /*
+Output
 Enter a number to check whether it is armstrong or not
 153
 It is armstrong
