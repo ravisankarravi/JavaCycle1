@@ -12,3 +12,10 @@ class suminput
 	System.out.println("sum="+sum);
 	}
 }
+/*
+Output
+Enter the numbers
+5
+2
+sum=7
+*/
