@@ -17,5 +17,10 @@ class oddeveninput
 	}
 	}
 }
-
+/*
+Output
+Enter the number
+5
+Number is odd
+*/
 
