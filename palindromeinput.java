@@ -1,9 +1,10 @@
 import java.util.*;
-class palindromeinput
+public class Main
 {
 	public static void main(String args[])
 {
 	Scanner sc=new Scanner(System.in);
+	System.out.println("Enter the number");
 	int n=sc.nextInt();
 	int originalnumber,rem,reversednum=0;
 	originalnumber=n;
@@ -15,12 +16,17 @@ class palindromeinput
 	}
 	if(n==reversednum)
 	{
-	System.out.println(n+"is palindrome");
+	System.out.println(n+" is palindrome");
 	}
 	else
 	{
-	System.out.println(n+"is not palindrome");
+	System.out.println(n+" is not palindrome");
 	}
 }
 }
-
+/*
+Output
+Enter the number
+5555
+5555 is palindrome
+*/
