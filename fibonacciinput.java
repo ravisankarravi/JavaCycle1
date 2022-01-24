@@ -3,7 +3,7 @@ class fibonacciinput
 {
 	public static void main(String[] args){
 	Scanner sc= new Scanner(System.in);
-	System.out.println("Enter the numbers");
+	System.out.println("Enter the number");
 	int a=sc.nextInt();
 	int n1=0,n2=1,n3,i;
 	System.out.println(n1);
@@ -19,3 +19,13 @@ class fibonacciinput
 
 }
 }
+/*
+Output
+Enter the number
+4
+0
+1
+1
+2
+3
+*/
