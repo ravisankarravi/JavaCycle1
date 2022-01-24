@@ -14,4 +14,10 @@ class factorialinput
 		System.out.println("Factorial is "+factorial);
 		}
 	}
+/*
+Output
+Enter the number
+6
+Factorial is 720
+*/
 
